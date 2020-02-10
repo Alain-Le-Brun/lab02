@@ -1,3 +1,4 @@
+/**COMMENTAIRE QUELCONQUE DANS lab02*/
 public class FixxBuzz {
     public static void main(String[]args){
         int cpt = 1;
